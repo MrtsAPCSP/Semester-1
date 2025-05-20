@@ -138,10 +138,8 @@ By the end of Semester 1, students will:
 
 ## 🧩 Tools & Resources
 
-- 💻 **Programming Language**: Python (via Visual Studio Code or browser-based editors)
-- 📖 **Curriculum References**: CodeHS, Runestone Academy, custom materials
-- 🧪 **Practice Platforms**: Replit, HackerRank (Intro-level)
-
+- 💻 **Programming Language**: Python (via Visual Studio Code or browser-based editors - Jdoodle.com)
+- 📖 **Curriculum References**: CodeHS, Code.org, custom materials
 ---
 
 ## 🎓 Looking Ahead: Semester 2 Preview
