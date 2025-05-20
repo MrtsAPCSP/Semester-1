@@ -1,0 +1,20 @@
+creature = {
+    "name": "Voana2",
+    "type": "Electric",
+    "colors": ["yellow", "green"],
+    "size": "medium",
+    "weight": 250,
+    "height": 5.8,
+    "speed_type": "land",
+    "home_terrain": "City",
+    "abilities": ["lightning zap", "static shield", "speed dash"],
+    "weaknesses": ["Earth", "Water"],
+    "resistances": ["Electric", "Air"],
+    "aggressiveness": 6,
+    "intelligence": 7,
+    "friendliness": 5,
+    "stats": {"strength": 6, "speed": 8, "defense": 4, "agility": 7, "stamina": 6},
+    "catchphrase": "Shock and roll!",
+    "class_period": "1st",
+    "student_name": "Max"
+}
