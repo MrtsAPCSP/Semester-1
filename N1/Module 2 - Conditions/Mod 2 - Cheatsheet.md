@@ -164,7 +164,4 @@ In the next module, you'll learn about **functions**—how to define reusable bl
 
 ---
 
-```
 
-Let me know if you’d like this added to a full curriculum repo with navigation or want similar markdown versions for Modules 3–12!
-```
