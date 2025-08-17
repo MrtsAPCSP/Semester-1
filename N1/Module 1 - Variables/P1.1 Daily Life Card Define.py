@@ -18,6 +18,12 @@ favorite_color = "blue"
 hobby = "skateboarding"
 
 
+print(type(name))
+
+
+
+
+
 # Output using the variables
 print("About Me:")
 print("My name is " + name + ".")
