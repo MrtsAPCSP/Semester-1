@@ -7,26 +7,19 @@ Create your own character (real, fantasy, or sci-fi).
 Choose a name, age, skill, and fun facts.
 Use at least:
 
-
 2 str variables
 1 int
 1 float
 2 bool
 
-
 Use print() to display a character card.
-
 
 🌟 Optional Add-ons (still using only variables and types):
 Add more bool facts like is_friendly or can_fly.
 Add a made-up "power level" using a float.
 Add another character for comparison.
 
-
-
 """
-
-
 
 # String variables
 character_name = "Zara the Explorer"
